@@ -28,7 +28,9 @@
       'Revolver',
       'Rope',
       'Wrench'
-  */
+ */
+
+$rooms = [];
 ?>
 <!DOCTYPE html>
 <html lang="en">
